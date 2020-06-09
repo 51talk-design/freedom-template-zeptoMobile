@@ -1,0 +1,17 @@
+.idea
+.idea/
+*/**/.idea
+*/**/node_modules
+**/node_modules
+*/**/.cache
+build
+build/
+/build
+node_modules
+package-lock.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode

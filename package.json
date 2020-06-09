@@ -1,0 +1,12 @@
+{
+  "name": "freedom-template-zeptomobile",
+  "version": "1.0.0",
+  "description": "zepto移动端工程模板",
+  "author": "51Talk freedom design team",
+  "license": "MIT",
+  "devDependencies": {
+    "underscore": "^1.9.1",
+    "babel-polyfill": "^6.23.0"
+  },
+  "dependencies": {}
+}
